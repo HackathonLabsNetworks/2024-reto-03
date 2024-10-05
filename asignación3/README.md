@@ -80,6 +80,7 @@ Demuestre a los jueces cómo la solución cumple con los criterios de evaluació
 
 ### Importante
 
+- Si no completó algún criterio de evaluación, pero completó un criterio de evaluación siguiente, puede mostrar el siguiente criterio para evaluarlo. Por ejemplo, 1, 3.1, 3.2
 - No se requiere que desplieguen la solución a un servicio web, sino que muestren la funcionalidad a través del portal de Azure.
 - Puede que necesite o no los recursos de Azure desplegados para completar el desafío.
 - Puede usar uno, algunos o incluso reutilizar los mismos recursos de Azure en los desafíos según sea necesario.
