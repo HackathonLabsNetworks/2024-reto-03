@@ -95,6 +95,7 @@ Demuestre a los jueces cómo la solución cumple con los criterios de evaluació
 
 ### Importante
 
+- Si no completó algún criterio de evaluación, pero completó un criterio de evaluación siguiente, puede mostrar el siguiente criterio para evaluarlo. Por ejemplo, 1, 2, 3.3, 4
 - Tenga en cuenta que cada objetivo debe demostrarse por separado desde diferentes pestañas en su navegador web.
 - No se requiere crear una solución única, sino demostrar cada objetivo y criterio de evaluación por separado en diferentes pestañas del navegador web.
 - No se requiere desplegar la solución en un servicio web.

@@ -73,6 +73,7 @@ Demuestre a los jueces cómo la solución cumple con los criterios de evaluació
 
 ### Importante
 
+- Si no completó algún criterio de evaluación, pero completó un criterio de evaluación siguiente, puede mostrar el siguiente criterio para evaluarlo. Por ejemplo, 1, 3, 4
 - No se requiere que desplieguen la solución en un servicio web, sino que muestren la página web localmente en su navegador.
 - Para la parte 3 y 4 de los `criterios de evaluación`, usen el video `responsible_ai.mp4` o el video renderizado de la parte 2 de los `criterios de evaluación`.
 - Puede que necesite o no los recursos de Azure desplegados para completar el desafío.
